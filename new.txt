@@ -1,0 +1,5 @@
+  first name - John
+  last name - Smith
+  age - 31
+  number of pets - 1
+  expected salary - 5000$
