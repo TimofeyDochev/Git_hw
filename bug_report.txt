@@ -1,1 +1,16 @@
+Bug_id:29
+Title: Clicking on the “add widget” button is crushing another app “Launcher 3”
 
+Severity: Blocker
+Priority: High
+Environment: Asus_X00TD, Android version: 8.1.0,
+Cubot X18+, Android version: 8.0,
+Nokia 5, Android version: 9.0 (the “Quickstep” app is crashed)
+		       
+Precondition:  install app 
+STR:			1) Open the app “AndroidGridTest”
+		      2) Click on the “add widget” button
+
+AR: “Launcher 3” app is crushed.
+
+ER: The widget was created on the desktop.
